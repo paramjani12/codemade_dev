@@ -1,3 +1,3 @@
 # codemade_frontend
 
-user home page
+user home page, future updates
